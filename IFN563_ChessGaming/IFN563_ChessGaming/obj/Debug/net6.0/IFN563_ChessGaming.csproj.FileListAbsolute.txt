@@ -1,0 +1,15 @@
+C:\Users\John\OneDrive - Queensland University of Technology\Semester 2\IFN564\week 9\IFN563_ChessGaming\IFN563_ChessGaming\bin\Debug\net6.0\IFN563_ChessGaming.exe
+C:\Users\John\OneDrive - Queensland University of Technology\Semester 2\IFN564\week 9\IFN563_ChessGaming\IFN563_ChessGaming\bin\Debug\net6.0\IFN563_ChessGaming.deps.json
+C:\Users\John\OneDrive - Queensland University of Technology\Semester 2\IFN564\week 9\IFN563_ChessGaming\IFN563_ChessGaming\bin\Debug\net6.0\IFN563_ChessGaming.runtimeconfig.json
+C:\Users\John\OneDrive - Queensland University of Technology\Semester 2\IFN564\week 9\IFN563_ChessGaming\IFN563_ChessGaming\bin\Debug\net6.0\IFN563_ChessGaming.dll
+C:\Users\John\OneDrive - Queensland University of Technology\Semester 2\IFN564\week 9\IFN563_ChessGaming\IFN563_ChessGaming\bin\Debug\net6.0\IFN563_ChessGaming.pdb
+C:\Users\John\OneDrive - Queensland University of Technology\Semester 2\IFN564\week 9\IFN563_ChessGaming\IFN563_ChessGaming\obj\Debug\net6.0\IFN563_ChessGaming.csproj.AssemblyReference.cache
+C:\Users\John\OneDrive - Queensland University of Technology\Semester 2\IFN564\week 9\IFN563_ChessGaming\IFN563_ChessGaming\obj\Debug\net6.0\IFN563_ChessGaming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\OneDrive - Queensland University of Technology\Semester 2\IFN564\week 9\IFN563_ChessGaming\IFN563_ChessGaming\obj\Debug\net6.0\IFN563_ChessGaming.AssemblyInfoInputs.cache
+C:\Users\John\OneDrive - Queensland University of Technology\Semester 2\IFN564\week 9\IFN563_ChessGaming\IFN563_ChessGaming\obj\Debug\net6.0\IFN563_ChessGaming.AssemblyInfo.cs
+C:\Users\John\OneDrive - Queensland University of Technology\Semester 2\IFN564\week 9\IFN563_ChessGaming\IFN563_ChessGaming\obj\Debug\net6.0\IFN563_ChessGaming.csproj.CoreCompileInputs.cache
+C:\Users\John\OneDrive - Queensland University of Technology\Semester 2\IFN564\week 9\IFN563_ChessGaming\IFN563_ChessGaming\obj\Debug\net6.0\IFN563_ChessGaming.dll
+C:\Users\John\OneDrive - Queensland University of Technology\Semester 2\IFN564\week 9\IFN563_ChessGaming\IFN563_ChessGaming\obj\Debug\net6.0\refint\IFN563_ChessGaming.dll
+C:\Users\John\OneDrive - Queensland University of Technology\Semester 2\IFN564\week 9\IFN563_ChessGaming\IFN563_ChessGaming\obj\Debug\net6.0\IFN563_ChessGaming.pdb
+C:\Users\John\OneDrive - Queensland University of Technology\Semester 2\IFN564\week 9\IFN563_ChessGaming\IFN563_ChessGaming\obj\Debug\net6.0\IFN563_ChessGaming.genruntimeconfig.cache
+C:\Users\John\OneDrive - Queensland University of Technology\Semester 2\IFN564\week 9\IFN563_ChessGaming\IFN563_ChessGaming\obj\Debug\net6.0\ref\IFN563_ChessGaming.dll
